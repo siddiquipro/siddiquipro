@@ -14,6 +14,7 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-aqua?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-aqua?&logo=GCP)
 ![Docker](https://img.shields.io/badge/-Docker-aqua?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-aqua?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-aqua?&logo=node.js) 
