@@ -4,6 +4,7 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-aqua?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-VueJS-aqua?&logo=Vue.js)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-aqua?&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-aqua?&logo=PHP)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?&logo=TypeScript)
