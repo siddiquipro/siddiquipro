@@ -3,12 +3,10 @@
 
 ### Languages
 
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-aqua?&logo=JavaScript)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-aqua?&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-aqua?&logo=PHP)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?&logo=TypeScript)
 ![ABAP](https://img.shields.io/badge/-ABAP-aqua?&logo=SAP)
 ![Java](https://img.shields.io/badge/-Java-aqua?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-aqua?&logo=MySQL)
