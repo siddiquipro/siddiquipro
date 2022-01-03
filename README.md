@@ -1,6 +1,6 @@
 ### Hi There 👋
-I am Mohammad Siddiqui, a Fullstack Web Developer who loves to build and deliver quality products.
-![https://www.siddiquipro.com](https://www.siddiquipro.com)
+#### I am Mohammad Siddiqui, a Fullstack Web Developer who loves to build and deliver quality products.
+#### https://www.siddiquipro.com
 
 ### Languages
 
