@@ -1,5 +1,6 @@
 ### Hi There 👋
-[![](https://www.siddiquipro.com/dev.jpg)](https://www.siddiquipro.com/)
+I am Mohammad Siddiqui, a Fullstack Web Developer who loves to build and deliver quality products.
+[![]https://www.siddiquipro.com/](https://www.siddiquipro.com/)
 
 ### Languages
 
@@ -9,7 +10,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-aqua?&logo=PHP)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-aqua?&logo=TypeScript)
 ![ABAP](https://img.shields.io/badge/-ABAP-aqua?&logo=SAP)
-![Java](https://img.shields.io/badge/-Java-aqua?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-aqua?&logo=MySQL)
 
 ### Technologies
