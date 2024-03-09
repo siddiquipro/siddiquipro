@@ -32,11 +32,11 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=siddiquipro&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddiquipro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquipro&layout=pie)
+
 
 ## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
 - [The Power Of Zod](https://www.siddiquipro.com/blogs/the-power-of-zod/)
 - [AdonisJS: bringing order to chaos](https://www.siddiquipro.com/blogs/adonisjs-order-in-chaos/)
 - others on the way...
