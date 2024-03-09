@@ -6,7 +6,8 @@ I'm a fullstack developer with over a decade of web experience. I am currently w
 - 🔭 I’m currently working on building libraries in NodeJs
 - 🌱 I’m currently learning Go
 - 💬 Ask me about anything web application related
-- 📫 How to reach me: ms@siddiquipro.com
+- 📫 How to reach me: [Connect with me](#-connect-with-me)
+
 
 ## 🔧 Technologies & Tools
 
